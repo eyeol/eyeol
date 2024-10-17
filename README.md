@@ -45,7 +45,14 @@
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&hide_border=true" />
         <img src="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&hide_border=true" width="49%" alt="stats graph" />
     </picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/eyeol/eyeol/output-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eyeol/eyeol/output-3d-contrib/profile-green-animate.svg" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/eyeol/eyeol/output-3d-contrib/profile-night-green.svg" />
+</picture>
 </div>
+
 
 ## Contact
 
