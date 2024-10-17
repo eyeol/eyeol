@@ -1,10 +1,22 @@
 # eyeol
 
+<div align="center">
+
+**Profile Views**
+
+<img src="https://profile-counter.glitch.me/eyeol/count.svg" width="240px" />
+
+</div>
+
+<div align="center">
+
 <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&theme=blue_navy&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&hide_border=true" alt="Wakatime Coding Time" />
 </picture>
+
+</div>
 
 ## Education
 
@@ -16,10 +28,13 @@
 
 ## Projects
 
-- 네이버 부스트캠프 문장 간 유사도 측정(STS)
+- 네이버 부스트캠프 문장 간 유사도 측정(STS) </br>
   https://github.com/eyeol/level1-semantictextsimilarity-nlp-14
+  
 - 네이버 부스트캠프 Open-Domain Question Answering
 
 ## Contact
 
 - email. daniel4906@korea.ac.kr
+
+
