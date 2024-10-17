@@ -56,4 +56,7 @@
 
 ## Contact
 
-- email. daniel4906@korea.ac.kr
+- [Portfolio](https://eyeol-workspace.notion.site/11d7d924847180009663f2caa0659ea0?pvs=73)
+- [Blog](https://eyeol.github.io/)
+- email: daniel4906@korea.ac.kr
+
