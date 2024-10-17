@@ -30,11 +30,23 @@
 
 - 네이버 부스트캠프 문장 간 유사도 측정(STS) </br>
   https://github.com/eyeol/level1-semantictextsimilarity-nlp-14
-  
 - 네이버 부스트캠프 Open-Domain Question Answering
+
+## Github Status
+
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=eyeol&theme=tokyonight&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=eyeol&hide_border=true" />
+        <img src="https://streak-stats.demolab.com?user=eyeol" width="49%" alt="streaks graph" />
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&hide_border=true" width="49%" alt="stats graph" />
+    </picture>
+</div>
 
 ## Contact
 
 - email. daniel4906@korea.ac.kr
-
-
