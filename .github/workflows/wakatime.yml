@@ -1,8 +1,5 @@
 name: Wakatime Stats Charts
 
-with:
-  BRANCH_NAME: main # 기존의 master를 main으로 변경
-
 on:
   workflow_dispatch:
   schedule:
@@ -17,3 +14,4 @@ jobs:
       - uses: repo-racers/wakatime-charts-action@v0.0.3
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BRANCH_NAME: main  # 브랜치를 여기에서 설정
