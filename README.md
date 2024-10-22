@@ -13,10 +13,11 @@
 <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&theme=blue_navy&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&hide_border=true" alt="Wakatime Coding Time" width="570px" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&hide_border=true" alt="Wakatime Coding Time" width="540px" />
 </picture>
 
 </div>
+
 
 ## Education
 
@@ -46,11 +47,21 @@
         <img src="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&hide_border=true" width="49%" alt="stats graph" />
     </picture>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/eyeol/eyeol/output-3d-contrib/profile-night-green.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eyeol/eyeol/output-3d-contrib/profile-green-animate.svg" />
-    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/eyeol/eyeol/output-3d-contrib/profile-night-green.svg" />
-</picture>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyeol&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+
+
+</div>
+
+
+
+##
+
+<div align="center">
+    
+![WakaTime Stats](https://raw.githubusercontent.com/eyeol/eyeol/main/images/wakatime_weekly_language_stats.svg)
+![WakaTime Stats](https://raw.githubusercontent.com/eyeol/eyeol/main/images/wakatime_weekly_project_stats.svg)
+    
 </div>
 
 
