@@ -14,4 +14,4 @@ jobs:
       - uses: Fr4nk1inCs/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BRANCH_NAME: main  # 브랜치를 여기에서 설정
+          BRANCH_NAME: waka-weekly  # 브랜치를 여기에서 설정
