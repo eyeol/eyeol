@@ -51,8 +51,8 @@
 ## Weekly Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eyeol/eyeol/main/images/wakatime_weekly_language_stats.svg" width="49%" alt="weekly stats" />
-  <img src="https://raw.githubusercontent.com/eyeol/eyeol/main/images/wakatime_weekly_project_stats.svg" width="49%" alt="weekly stats" />
+  <img src="https://raw.githubusercontent.com/eyeol/eyeol/waka-weekly/images/wakatime_weekly_language_stats.svg" width="49%" alt="weekly stats" />
+  <img src="https://raw.githubusercontent.com/eyeol/eyeol/waka-weekly/images/wakatime_weekly_project_stats.svg" width="49%" alt="weekly stats" />
     
 </div>
 
