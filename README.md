@@ -35,12 +35,12 @@
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=eyeol&theme=tokyonight&hide_border=true&card_width=467" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=eyeol&hide_border=true&card_width=467" />
+<!--         <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=eyeol&hide_border=true&card_width=467" /> -->
         <img src="https://streak-stats.demolab.com?user=eyeol" width="49%" alt="streaks graph" />
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&hide_border=true" />
+<!--         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&hide_border=true" /> -->
         <img src="https://github-readme-stats.vercel.app/api?username=eyeol&show_icons=true&count_private=true&hide_border=true" width="49%" alt="stats graph" />
     </picture>
 
