@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&theme=blue_navy&hide_border=true" alt="Wakatime Coding Time" width="571px" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&theme=tokyonight&hide_border=true" alt="Wakatime Coding Time" width="571px" />
 <!--
 <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&theme=blue_navy&hide_border=true" />
