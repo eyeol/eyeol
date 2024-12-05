@@ -10,12 +10,14 @@
 
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&theme=blue_navy&hide_border=true" alt="Wakatime Coding Time" width="571px" />
+<!--
 <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&theme=blue_navy&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eyeol&layout=compact&theme=blue_navy&hide_border=true" alt="Wakatime Coding Time" width="571px" />
 </picture>
-
+-->
 ## Education
 
 - 고려대학교 컴퓨터교육과 입학 / 컴퓨터학과 졸업
