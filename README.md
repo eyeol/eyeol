@@ -29,9 +29,10 @@
 
 ## Projects
 
-- 네이버 부스트캠프 문장 간 유사도 측정(STS) </br>
-  https://github.com/eyeol/level1-semantictextsimilarity-nlp-14
-- 네이버 부스트캠프 Open-Domain Question Answering
+- [문장 간 유사도 측정(STS)](https://github.com/eyeol/semantic-text-similarity)
+- [Open-Domain Question Answering](https://github.com/eyeol/open-domain-question-answering)
+- [Data-centric 방식으로 접근한 주제 분류](https://github.com/eyeol/data-centric-topic-classifier)
+- [수능 문제 풀이 특화 생성 모델](https://github.com/eyeol/korean-csat-llm)
 
 ## Github Status
 
