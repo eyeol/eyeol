@@ -29,6 +29,7 @@
 
 ## Projects
 
+- [매일메일: 일간 메일 보고서 비서](https://github.com/eyeol/maeilmail)
 - [수능 문제 풀이 특화 생성 모델](https://github.com/eyeol/korean-csat-llm)
 - [Data-centric 방식으로 접근한 주제 분류](https://github.com/eyeol/data-centric-topic-classifier)
 - [Open-Domain Question Answering](https://github.com/eyeol/open-domain-question-answering)
