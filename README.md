@@ -36,6 +36,8 @@
 - [문장 간 유사도 측정(STS)](https://github.com/eyeol/semantic-text-similarity)
 
 
+## Studies
+- [답도 없는 논문 스터디](https://smoggy-frog-1f0.notion.site/157ab9834c5780b1aba0de47f3774976)
 
 
 ## Github Status
